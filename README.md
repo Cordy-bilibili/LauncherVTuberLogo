@@ -5,7 +5,7 @@ You can use it in non commercial situations
 >
 >1.These are all unofficial
 >
->2.**Currently, only I am making this type. Please note if there are any similar types**
+>2.**Attention, currently I only make the logo for the launcher. Please note if there are any other similar categories**
 >
 >3.**I only know how to make this type and won't accept any logos other than Minecraft third-party launchers**
 >
