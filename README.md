@@ -3,7 +3,7 @@ You can use it in non commercial situations
 
 >⚠**notice**
 >
->1.**These are all unofficial
+>1.These are all unofficial
 >
 >2.**Currently, only I am making this type. Please note if there are any similar types**
 >
