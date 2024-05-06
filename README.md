@@ -1,7 +1,7 @@
-## LauncherVTuberLogo
-This is a VTuber style logo specially designed for third-party Minecraft launchers
+## Minecraft third-party launcher VTuber Logo
+You can use it in non commercial situations
 
->**notice**
+>⚠**notice**
 >
 >1.**These are all unofficial
 >
