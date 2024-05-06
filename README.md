@@ -1,9 +1,12 @@
-## Minecraft third-party launcher VTuber Logo
+## Minecraft third-party launcher VTuber Logo 
+
+Let's say it's very similar. My level makes it very different, but I'm just drawing it 🤣
+
 You can use it in non commercial situations
 
->⚠**notice**
+## ⚠**notice** 📕
 >
->1.These are all unofficial
+>1.**These are all unofficial**
 >
 >2.**Attention, currently I only make the logo for the launcher. Please note if there are any other similar categories**
 >
@@ -14,7 +17,7 @@ You can use it in non commercial situations
 >5.**My level cannot compete with other similar types, please do not attack me personally**
 >
 
-## Licence
+## Licence 📜
 
 Stated below otherwise follow [CC BY-NC-SA 4.0](./LICENSE.md)
 Basically
