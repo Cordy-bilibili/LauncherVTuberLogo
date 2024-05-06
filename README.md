@@ -1,17 +1,17 @@
 ## LauncherVTuberLogo
 This is a VTuber style logo specially designed for third-party Minecraft launchers
 
->notice
+>**notice**
 >
->These are all unofficial
+>1.**These are all unofficial
 >
->Currently, only I am making this type. Please note if there are any similar types
+>2.**Currently, only I am making this type. Please note if there are any similar types**
 >
->I only know how to make this type and won't accept any logos other than Minecraft third-party launchers
+>3.**I only know how to make this type and won't accept any logos other than Minecraft third-party launchers**
 >
->Language balance: English>Chinese>Japanese Other languages cannot be used
+>4.**Language balance: English>Chinese>Japanese Other languages cannot be used**
 >
->My level cannot compete with other similar types, please do not attack me personally
+>5.**My level cannot compete with other similar types, please do not attack me personally**
 >
 
 ## Licence
